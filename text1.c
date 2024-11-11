@@ -6,7 +6,7 @@
 struct Student {
     char name[NAME_LENGTH];
     int marks;
-};
+}
 
 int main() {
     struct Student students[MAX_STUDENTS];
